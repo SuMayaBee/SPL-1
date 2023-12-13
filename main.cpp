@@ -585,4 +585,4 @@ LRESULT CALLBACK main_window_proc(HWND hwnd, UINT message, WPARAM wParam, LPARAM
 
 
 
-// g++ neural_network.c data_file.c main.cpp -o main -lgdi32
+// g++ neural/neural_network.c data_file/data_file.c main.cpp -o main -lgdi32
